@@ -1,5 +1,11 @@
 # Student Result Analysis System
 
+# 🎓 Student Result Analysis System
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://student-result-analysis-x21m.onrender.com/)
+
+> **Live Demo:** [Click here to view the app](https://student-result-analysis-x21m.onrender.com/)
+
 A lightweight, menu-driven web application built with **Streamlit** and **Pandas** to analyze student performance data without the need for complex charting libraries.
 
 ## Overview
