@@ -31,6 +31,16 @@ The application is divided into several functional modules:
 * **Pandas:** Data manipulation and analysis.
 * **Streamlit Option Menu:** For the polished sidebar navigation.
 
+##Screenshots
+*Welcome Page
+<img width="1202" height="712" alt="image" src="https://github.com/user-attachments/assets/01d4085a-4f99-49ef-bde1-ae216ebbcdff" />
+*After Upload Raw Data
+<img width="1359" height="534" alt="image" src="https://github.com/user-attachments/assets/d28b549b-6a85-418d-8fe9-9f411d6a9e4c" />
+*Student Result
+<img width="1349" height="515" alt="image" src="https://github.com/user-attachments/assets/09485c75-3629-4b0e-8297-9a9260ccba49" />
+*Topper
+<img width="1365" height="535" alt="image" src="https://github.com/user-attachments/assets/f8f63558-a1cc-4db6-b75a-1c0c4d1a154e" />
+
 ## 📋 Prerequisites
 
 Ensure you have a CSV file with the following columns for the app to function correctly:
